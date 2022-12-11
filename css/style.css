@@ -1,0 +1,42 @@
+section, img {
+  margin: 3% 20% 0 20%; 
+
+}
+
+h1 {
+    font-family: 'Roboto', Times, serif;
+    font-size: 40pt;
+    color: rgb(34, 34, 34);
+    margin: 3% 20% 0% 20%; 
+
+    }
+
+h2 {
+    font-family: 'Roboto', Times, serif;
+    font-size: 30pt;
+    color: rgb(34, 34, 34);
+    text-align: left;   
+    display: block; 
+    border-bottom: 3.5px solid #c3bef6;    
+    }
+
+    
+  
+p {
+    font-family: Roboto;
+    font-size: 20pt;
+  }
+
+a {
+  text-decoration: none;
+}
+
+
+li {
+
+  margin: 2% 0 2% 0;
+  width: 60%;
+  font-family: Roboto;
+  font-size: 20pt;
+
+}
