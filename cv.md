@@ -60,7 +60,7 @@ I have been in contact with IT since 2014 and already at college I was very inte
 
 ## **Education**
 ***************************
-### ***Informatics***
+* ### ***Informatics***
 
 *Bachelor’s Degree*
 
@@ -68,7 +68,7 @@ Czech University of Life Sciences
 
 Prague, Czech Republic - October 2020 -  Current
 
-### ***Programmable Mobile System***
+* ### ***Programmable Mobile System***
 
 *Bachelor’s Degree*
 
@@ -76,7 +76,7 @@ Belarusian State University of Informatics and Radioelectronics
 
 Minsk, Belarus - September 2018 -  May 2019
 
-### ***Electronic Computing Facilities***
+* ### ***Electronic Computing Facilities***
 
 *Secondary Special Education*
 
