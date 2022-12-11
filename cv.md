@@ -1,9 +1,16 @@
+![foto with me](/img/Shunevich.png)
+
 #**Karalina Shunevich**
 
 ##**Contact**
     *Prague, Czech Republic
     *shunevuchkonst@gmail.com
     *[Link to LinkedIn](https://www.linkedin.com/in/karalina-shunevich-875433213/)
+    *Nickname in discord - Shunevich Karalina (@aeiklnor)
+
+##**Briefly About Myself**
+I have been in contact with IT since 2014 and already at college I was very interested in developing usable and beautiful projects. After moving to Prague, I am very eager to start practicing my knowledge and skills. 
+
 
 ##**Skills**
     ****Web Designer***
