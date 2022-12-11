@@ -36,14 +36,14 @@
 ##**Work Experience**
 
 ###***Web designer***
-*Used proven methods to craft and test design solutions that addressed real customer challenges.
-*Reviewed, edited and applied style rules to design, complying with company guidelines.
-*Identified technology solution alternatives in line with specific client objectives and challenges.
-*Generated UX concepts such as tasks analysis, storyboards and use cases to accelerate user flow.
-*Created and improved visual designs to catapult websites forward in terms of looks and usability.
-*Mastered web designs from conception to completion.
-*Created clear icons, messaging, buttons and other UI elements for smartphones, tablets and web applications.
-*Checked copywriting, image design, banners and other features for blending within site content and reviewed graphics for cohesive aesthetics.
+**Used proven methods to craft and test design solutions that addressed real customer challenges.*
+**Reviewed, edited and applied style rules to design, complying with company guidelines.*
+**Identified technology solution alternatives in line with specific client objectives and challenges.*
+**Generated UX concepts such as tasks analysis, storyboards and use cases to accelerate user flow.*
+**Created and improved visual designs to catapult websites forward in terms of looks and usability.*
+**Mastered web designs from conception to completion.*
+**Created clear icons, messaging, buttons and other UI elements for smartphones, tablets and web applications.*
+**Checked copywriting, image design, banners and other features for blending within site content and reviewed graphics for cohesive aesthetics.*
 
 ##**Education**
 
