@@ -1,4 +1,4 @@
-#**Karalina Shunevuch**
+#**Karalina Shunevich**
 
 ##**Contact**
     *Prague, Czech Republic
