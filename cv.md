@@ -20,6 +20,7 @@ I have been in contact with IT since 2014 and already at college I was very inte
     + UX architecture
     + Style guide design
     + Website navigation
+
 * ***Tools and programs***
     + Figma proficiency
     + Adobe photoshop proficiency
@@ -60,19 +61,24 @@ I have been in contact with IT since 2014 and already at college I was very inte
 ## **Education**
 ***************************
 ### ***Informatics***
-* *Bachelor’s Degree*
+
+*Bachelor’s Degree*
+
 Czech University of Life Sciences
+
 Prague, Czech Republic - October 2020 -  Current
 
 ### ***Programmable Mobile System***
-* *Bachelor’s Degree*
+
+*Bachelor’s Degree*
 
 Belarusian State University of Informatics and Radioelectronics
 
 Minsk, Belarus - September 2018 -  May 2019
 
 ### ***Electronic Computing Facilities***
-* *Secondary Special Education*
+
+*Secondary Special Education*
 
 Minsk Radioengineering College
 
