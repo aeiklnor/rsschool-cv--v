@@ -1,30 +1,72 @@
-section, img {
-  margin: 3% 20% 0 20%;
+html {
+  background: rgb(215,140,173);
+  background: radial-gradient(circle, rgba(215,140,173,1) 0%, rgba(123,167,218,1) 100%);
 }
-h1 {
-    font-family: 'Roboto', Times, serif;
-    font-size: 40pt;
-    color: rgb(34, 34, 34);
-    margin: 3% 20% 0% 20%;
-    }
-h2 {
-    font-family: 'Roboto', Times, serif;
-    font-size: 30pt;
-    color: rgb(34, 34, 34);
-    text-align: left;
-    display: block;
-    border-bottom: 3.5px solid #c3bef6;
-    }
-p {
-    font-family: Roboto;
-    font-size: 20pt;
-  }
-a {
-  text-decoration: none;
+
+body {
+  margin: auto;
+  width: 800px;
 }
-li {
-  margin: 2% 0 2% 0;
-  width: 60%;
-  font-family: Roboto;
+
+header {
+  display: flex;
+  align-items: flex-end;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px;
+}
+
+ .image_of_me {
+   height: 40%;
+   width: 40%;
+ }
+
+ h1 {
+  margin: 0px 0px 0px 50px;
+  font-size: 40pt;
+  color: #18191b;
+ }
+
+ a {
+   text-decoration: none;
+   color: #18191b;
+   border-bottom: 3px #18191b;
+ }
+
+ li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 800;
+  font-size: 15pt;
+ }
+ 
+ .navigation li {
+  list-style-type: none;
+  border-bottom: 3px solid #18191b;
+ }
+
+ ul {
+  padding: 0px 50px 0px 50px;
+ }
+ .contacts, .about_me, .languages, .skills, .interests, .work, .education, .code {
+  padding: 25px 50px 25px 50px;
+ }
+
+ h2 {
   font-size: 20pt;
-}
+  border-bottom: 3px #18191b;
+  border-bottom: 3px solid #18191b;
+  font-family: Roboto;
+ }
+ 
+ footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+ ul.footer_items li {
+    display: inline;
+    margin-right: 5px;
+    padding: 5px;
+ }
