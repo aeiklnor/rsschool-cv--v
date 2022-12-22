@@ -3,23 +3,25 @@
 <head>
     <meta charset="utf-8">
     <title>Plants</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <nav class="nav">
-            <ul>
-                <li>Price</li>
-                <li>About us</li>
-                <li>Contacts</li>
-                <li>Service</li>
-                <li>Home</li>
-            </ul>
-            <div>
+        <div class="container_header">
+            <div class="logo_container">           
+                <img class="logo_image" src="images/logo_vector.svg" width="19" height="20" alt="Logo">
                 <p>Plants</p>
-                <img class="logo" src="#" alt="#">
             </div>
-        </nav>
+            <nav class="navigation_header">
+                <ul id="navbar">
+                    <li><a href="#">Price</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Contacts</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Home</a></li>
+                </ul>            
+            </nav>            
+        </div>       
     </header>
     <main>
         <section class="welcome_section">
@@ -32,11 +34,11 @@
             </div>
             <div class="welcome">
                 <h1>We grow <span>plants</span> and give you oxygen</h1>
-                <p1>
+                <p> 
                     Lorem Ipsum is simply dummy text of the printing 
                     and typesetting industry. Lorem Ipsum has been 
                     the industry's standard dummy text ever since the 1500s.
-                </p1>
+                </p>
                 <button class="welcome_btn">Learn more</button>
             </div>
         </section>
